@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Procedures
-permalink: /procedure/
+permalink: /procedures/
 ---
 
 # Procedures
