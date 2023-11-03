@@ -1,5 +1,5 @@
 ---
-layout: users
+layout: default
 title: Users
 permalink: /users/
 ---
