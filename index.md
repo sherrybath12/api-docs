@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: API Documentation using Markdown
 permalink: /
 ---
 
