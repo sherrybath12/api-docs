@@ -10,13 +10,13 @@ This section is intended to give the reader an overview of how to deliver: a com
 
 ## Table of contents
 
-* [Authorization](auth.md)
-* [Users](users.md)
-* [Plan Benefits](benefits.md)
-* [Providers](lproviders.md)
-* [RXBrands](rx.md)
-* [Medical Procedures](procedures.md)
-* [Search](search.md)
+* [Authorization](api-docs/auth.md)
+* [Users](api-docs/users.md)
+* [Plan Benefits](api-docs/benefits.md)
+* [Providers](api-docs/providers.md)
+* [RXBrands](api-docs/rx.md)
+* [Medical Procedures](api-docs/procedures.md)
+* [Search](api-docs/search.md)
 
 
 ## Data Model
