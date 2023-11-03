@@ -1,3 +1,9 @@
+---
+layout: default
+title: Benefits
+permalink: /benefits/
+---
+
 # Plan Benefits
 
 Plan Benefits returns benefit data for individual and family.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Providers
+permalink: /providers/
+---
+
 # Providers
 
 The Providers endpoints provide routes for finding information on providers.

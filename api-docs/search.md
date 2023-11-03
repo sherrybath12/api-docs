@@ -1,3 +1,9 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
 # Search
 
 The Search endpoints allow for geographic searching for prescriptions, providers, and services.

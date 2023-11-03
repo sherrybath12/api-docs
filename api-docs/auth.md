@@ -1,7 +1,7 @@
 ---
-Title: "Authorization"
-permalink: /
 layout: default
+title: Authorization
+permalink: /auth/
 ---
 
 # Authorization

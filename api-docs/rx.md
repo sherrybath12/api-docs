@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rx Brands
+permalink: /rx/
+---
+
 # Rx Brand
 
 The RX Brands endpoints provide routes for finding information about various prescriptions, dosages, and costs

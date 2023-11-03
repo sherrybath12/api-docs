@@ -1,3 +1,9 @@
+---
+layout: default
+title: Users
+permalink: /users/
+---
+
 # Users
 
 The Users endpoints allow for retrieval and update of registered members including dependents.

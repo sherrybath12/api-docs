@@ -1,3 +1,9 @@
+---
+layout: default
+title: Procedures
+permalink: /procedure/
+---
+
 # Medical Procedures
 
 The Medical Procedure endpoints provide routes for finding information about various services and costs.

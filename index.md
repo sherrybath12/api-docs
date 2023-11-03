@@ -1,7 +1,7 @@
 ---
-Title: "Introduction"
+layout: default
+title: Home
 permalink: /
-layout: home
 ---
 
 # Introduction
