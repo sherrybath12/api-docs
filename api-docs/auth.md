@@ -1,3 +1,9 @@
+---
+Title: "Authorization"
+permalink: /
+layout: default
+---
+
 # Authorization
 
 All API requests require the use of an Authenticated API key which should be provided in the header.
