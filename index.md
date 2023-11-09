@@ -66,8 +66,29 @@ The Users endpoints allow for retrieval and update of registered members includi
 GET /members
 ```
 
-## Request URL
-```http
+## Request URL Curl
+```javascript
+var data = null;
+
+var xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+  if (this.readyState === this.DONE) {
+    console.log(this.responseText);
+  }
+});
+
+xhr.open("GET", "https://apigee.staging.changehealthcare.com:9003/api/v3/members");
+xhr.setRequestHeader("accept", "application/json");
+xhr.setRequestHeader("x-user-key", "x2319");
+xhr.setRequestHeader("x-authenticated-api-key", "API_KEY");
+
+xhr.send(data);
+```
+
+## Request URL Curl
+```bash
 curl --request GET \
   --url https://dummy.example.com/api/v1/members \
   --header 'accept: application/json' \
@@ -82,7 +103,7 @@ curl --request GET \
 
 ## Successful Response
 
-```javascript
+```json
 {
   "id": "",
   "type": "members",
