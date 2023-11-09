@@ -32,15 +32,13 @@ All API requests require the use of an Authenticated API key which should be pro
 ## Get Authorized User
 
 Verify that the request includes a valid user.
-<span style="color:yellow">
 ```
 GET /apip/auth/v2/token
 ```
-</span>
 
 ## Request URL
 ```http
---header 'x-authenticated-api-key: {api_key}'
+header 'x-authenticated-api-key: {api_key}'
 ```
 
 | Parameter | Type | Required |
@@ -51,7 +49,7 @@ GET /apip/auth/v2/token
 
 | Status Code | Meaning | Description | 
 | :--- | :--- |:--- |
-| 200 | `OK` | `Success` |
+| 200 | OK | Success |
 | 401 | `UNAUTHORIZED` | `Api Key is missing or invalid`|
 | 500 | `INTERNAL SERVER ERROR` | `Something went wrong` |
 
