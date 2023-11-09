@@ -32,10 +32,11 @@ All API requests require the use of an Authenticated API key which should be pro
 ## Get Authorized User
 
 Verify that the request includes a valid user.
-
+<span style="color:yellow">
 ```
 GET /apip/auth/v2/token
 ```
+</span>
 
 ## Request URL
 ```http
